@@ -1,4 +1,4 @@
-You've Got Documents! A MongoDB Jump Start
+You've Got Documents! A MongoDB Jump Start by Microsoft
 ===========
 
 This is a [Microsoft Virtual Academy](http://www.microsoftvirtualacademy.com/liveevents/you-ve-got-documents-a-mongodb-jump-start) course on getting started with MongoDB.
